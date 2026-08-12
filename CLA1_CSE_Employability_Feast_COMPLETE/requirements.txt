@@ -1,0 +1,6 @@
+feast==0.64.0
+pyarrow
+pandas
+scikit-learn
+nbformat
+nbconvert
